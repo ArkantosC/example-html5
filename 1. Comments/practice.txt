@@ -1,0 +1,16 @@
+Comment the second paragraph of the following HTML document
+
+-- spanish translation --
+Comentar el segundo parrafo de el siguiente documento HTML
+
+HTML Code:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Comment HTML tags</title>
+    </head>
+    <body>
+        <p>Fisrt text</p>
+        <p>Second text</p>
+    </body>
+</html>

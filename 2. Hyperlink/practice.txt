@@ -1,0 +1,20 @@
+1. Create a hyperlink with in a document.
+
+-- spanish translation --
+Crear un hipervinculo en un documento.
+
+HTML Code:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hyperlink</title>
+    </head>
+    <body>
+
+    </body>
+</html>
+
+2. Download a file when clicking on the link.
+you might use this file: https://raw.githubusercontent.com/ArkantosC/example-html5/master/Resource/image.png
+-- spanish translation --
+Descargar un archivo desde un enlace.

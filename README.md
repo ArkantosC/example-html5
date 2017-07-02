@@ -1,6 +1,5 @@
 # example-html5
-# EN
 For educational purpose a couple examples about HTML5 and CSS.
 
-# ES
+# Spanish Translation:
 Con fines educativos algunos ejemplos de HTML5 y CSS.

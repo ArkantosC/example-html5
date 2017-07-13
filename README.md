@@ -1,5 +1,5 @@
 # example-html5
-For educational purpose a couple examples about HTML5 and CSS.
+For educational purpose a couple of examples about HTML5 and CSS.
 
 ## Fork the example-html5 on GitHub
 

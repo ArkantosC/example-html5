@@ -23,9 +23,4 @@ Con fines educativos algunos ejemplos de HTML5 y CSS.
 `
 git clone https://github.com/YOUR-GITHUB-USERNAME/example-html5.git
 `
-`
 Listo! Ahora el repositorio se encuentra preparado para iniciar a trabajar.
-Listo! Ahora el repositorio se encuentra preparado para iniciar a trabajar.
-Listo! Ahora el repositorio se encuentra preparado para iniciar a trabajar.
-Listo! Ahora el repositorio se encuentra preparado para iniciar a trabajar.
-`
